@@ -8,9 +8,7 @@
 
 <p>My current research interest is in Real-Time Embedded Systems. My thesis, more specifically, is on <em>designing safe and trustworthy memory systems</em> -- heavily relying on formal methods.</p>
 
-<p>Moreover, I consider my areas of expertise to be: processor micro-architecture, RISC-V processor optimisation, RTL design, critical and mixed-criticality real-time systems, concurrent/multi-core programing, trusted execution environments (TEEs), bare metal development, operational systems, and micro-controllers.</p>
-
-<p>I've also developped small projects on: AI, data, distributed systems, cloud, robotics, connected objects, ultra-low-power electronic design, and mobile networks.</p>
+<p>I consider my areas of expertise to be: processor micro-architecture, RISC-V processor optimisation, RTL design, critical and mixed-criticality real-time systems, concurrent programing, trusted execution environments (TEEs), bare metal development, OS(s), and micro-controllers. I've also developped a few small projects on other topics, such as: AI, distributed systems, cloud, robotics, connected objects, ultra-low-power electronic design, and mobile networks.</p>
 </div>
 
 ### Alternative resources
@@ -24,7 +22,7 @@ You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGX
 <ul>
 <li> <strong>PhD at Institut Polytechnique de Paris</strong>, Paris, France (2020-present). Thesis: Secure Dynamic Memory Hierarchy.</li>
 <li> <strong>MsC at Télécom Paris & Université Paris-Saclay</strong>, Paris, France  (2018-2020). Thesis: Implementation of a biometric library in a multi-core Trusted Execution Environment (TEE). GPA: 16.2/20.</li>
-<li> <strong>BsC in Eletrical Engineering at Universidade Federal de Minas Gerais (UFMG)</strong>, Belo Horizonte, Brazil (2015-2020). Focus on electronics and computer micro-architecture.</li>
+<li> <strong>BsC in Electrical Engineering at Universidade Federal de Minas Gerais (UFMG)</strong>, Belo Horizonte, Brazil (2015-2020). Focus on electronics and computer micro-architecture.</li>
 <li> <strong>Technical Degree in Industrial Automation</strong> at Instituto Federal de Minas Gerais (IFMG), Ouro Preto, Brazil (2012-2014).</li>
 </ul>
 
@@ -32,9 +30,15 @@ You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGX
 
 ### Professional Experience
 
-- Teaching assistant at Télécom Paris (2020 - present).
+<div style="text-align: justify"> 
 
-- Intern at [Trustonic](https://www.trustonic.com/) (Mar 2020 - Sep 2020). I implemented a biometric library and provided sample-code for fingerprint and face-recognitionin applications in a resource-limited Trusted Execution Environment (TEE). I've also contributed to the TEE by enabling C++ support on the kernel.
+<ul>
+<li> <strong> Teaching assistant at Télécom Paris (2020 - present)</strong>. I've been in charge of lab assignments for the following courses: SE201, about Computer Architecture; INF103, about Java and GUIs; INF104, about C programming; and INF106, about Operational Systems and Concurrency.</li>
+
+<li> <strong> Intern at <a href="https://www.trustonic.com/"> Trustonic </a> (Mar 2020 - Sep 2020) </strong>. I implemented a biometric library and provided sample-code for fingerprint and face-recognitionin applications in a resource-limited Trusted Execution Environment (TEE). I've also contributed to the TEE by enabling C++ support on the kernel. </li>
+</ul>
+
+</div>
 
 ### Publications
 
@@ -48,6 +52,8 @@ You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGX
 </div>
 
 ### Awards and Honors
+
+- **Best Paper Award** (RTNS, 2022).
 
 - **1st place at the 1st National RISC-V student contest** (Paris, France, 2021). Organised by Thales, CNFM, and the GdR SOC2.
 
