@@ -13,7 +13,11 @@
 
 ### Alternative resources
 
-You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGXMycrUgN4HLiG98U/view?usp=sharing). You can also visit my [Google Scholar page](https://scholar.google.com/citations?user=05zNVBwAAAAJ&hl=en&oi=sra) or my [linkedin page](https://www.linkedin.com/in/felipe-lisboa/).
+<div style="text-align: justify"> 
+
+<p>You can download my CV <a href="https://drive.google.com/file/d/1uRnzSN_5rPppWjUGXMycrUgN4HLiG98U/view?usp=sharing"> here </a>. You can also visit my <a href="https://scholar.google.com/citations?user=05zNVBwAAAAJ&hl=en&oi=sra"> Google Scholar page </a> or my <a href="https://www.linkedin.com/in/felipe-lisboa/"> linkedin page. </a> </p>
+
+</div>
 
 ### Education
 
@@ -33,11 +37,19 @@ You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGX
 <div style="text-align: justify"> 
 
 <ul>
-<li> <strong> Teaching assistant at Télécom Paris (2020 - present)</strong>. I've been in charge of lab assignments for the following courses: SE201, about Computer Architecture; INF103, about Java and GUIs; INF104, about C programming; and INF106, about Operational Systems and Concurrency.</li>
+<li> <strong> Graduate Research Intern at <a href="https://www.collinsaerospace.com/">Collins Aerospace</a> (Jan 2023 - present) </strong>. I have been applying formal methods to verify customised microarchitectures. </li>
 
 <li> <strong> Intern at <a href="https://www.trustonic.com/"> Trustonic </a> (Mar 2020 - Sep 2020) </strong>. I implemented a biometric library and provided sample-code for fingerprint and face-recognitionin applications in a resource-limited Trusted Execution Environment (TEE). I've also contributed to the TEE by enabling C++ support on the kernel. </li>
 </ul>
 
+</div>
+
+
+### Teaching
+<div style="text-align: justify"> 
+<ul>
+<li> <strong> Teaching assistant at Télécom Paris (2020 - present)</strong>. I've been in charge of lab assignments for the following courses: SE201, about Computer Architecture; INF103, about Java and GUIs; INF104, about C programming; and INF106, about Operational Systems and Concurrency.</li>
+</ul>
 </div>
 
 ### Publications
@@ -69,4 +81,6 @@ You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGX
 
 ### More
 
-I like being outside in nature as much as possible. Other passions are making music, sports, and languages. I am quite passionate about languages, actually. Currently I can speak fluent Portuguese, English, French, Spanish, Italian, and some basic German.
+<div style="text-align: justify"> 
+<p> I like being outside in nature as much as possible. Other passions are making music, sports, and languages. I am quite passionate about languages, actually. Currently I can speak fluent Portuguese, English, French, Spanish, Italian, and some basic German. </p>
+</div>
