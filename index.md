@@ -6,7 +6,9 @@
 <p>Welcome to my personal page. Currently I am working on my PhD thesis at  <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a> under the supervision of 
 <a href="https://perso.telecom-paristech.fr/brandner/">Florian Brandner</a> and <a href="https://www.telecom-paris.fr/lirida-naviner?l=en">Lirida Naviner</a>.</p>
 
-<p>My main research interest is on using formal methods to design hardware. My latest experience is on developping memory controllers and cryptographic modules using the Coq proof assistant. Other sub-areas where I have (some) expertise are: RISC-V processor design & optimisation, critical and mixed-criticality Real-Time Embedded Systems, static analysis, concurrent programming, trusted execution environements (TEEs), bare metal code-writing & micro-controllers.</p>
+<p>My main research interest is on using formal methods to design hardware. My latest experience is on developping memory controllers and cryptographic modules using the Coq proof assistant. </p>
+
+<p>Other sub-areas where I have (some) expertise are: RISC-V processor design & optimisation, critical and mixed-criticality Real-Time Embedded Systems, static analysis, concurrent programming, trusted execution environements (TEEs), bare metal code-writing & micro-controllers.</p>
 
 <p>I've also developped a few small projects on other topics, such as: AI, distributed systems, cloud, robotics, connected objects, ultra-low-power electronic design, and mobile networks.</p>
 
