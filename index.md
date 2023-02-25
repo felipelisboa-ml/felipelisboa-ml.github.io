@@ -84,15 +84,15 @@
 
 ### Skills
 
-<div style="text-align: justify"> 
+<!-- <div style="text-align: justify">  -->
 
-<p>Proficiency: C, C++, and the Coq Theorem Prover.</p>
+- Proficiency: C, C++, and the Coq Theorem Prover.
 
-<p>Working level: Python, Matlab, Haskell, and Java.</p>
+- Working level: Python, Matlab, Haskell, and Java.
 
-<p>Basic knownledge: OCaml, HTML, CSS, and SQL.</p>
+- Basic knownledge: OCaml, HTML, CSS, and SQL.
 
-</div>
+<!-- </div> -->
 
 ### Trivia
 
