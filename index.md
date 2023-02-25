@@ -16,7 +16,7 @@
 
 <div style="text-align: justify"> 
 
-<p>You can download my CV <a href="https://drive.google.com/file/d/1uRnzSN_5rPppWjUGXMycrUgN4HLiG98U/view?usp=sharing"> here </a>. You can also visit my <a href="https://scholar.google.com/citations?user=05zNVBwAAAAJ&hl=en&oi=sra"> Google Scholar page </a> or my <a href="https://www.linkedin.com/in/felipe-lisboa/"> linkedin page. </a> </p>
+<p>You can download my CV <a href="https://drive.google.com/file/d/16KTJP_IRu9BfBpAFQEVvA9rJ0BC8kSoq/view?usp=share_link"> here </a>. You can also visit my <a href="https://scholar.google.com/citations?user=05zNVBwAAAAJ&hl=en&oi=sra"> Google Scholar page </a> or my <a href="https://www.linkedin.com/in/felipe-lisboa/"> linkedin page. </a> </p>
 
 </div>
 
