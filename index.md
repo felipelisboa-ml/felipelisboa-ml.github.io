@@ -8,7 +8,7 @@
 
 <p>My main research interest is on using formal methods to design hardware. My latest experience is on developping memory controllers and cryptographic modules using the Coq proof assistant. </p>
 
-<p>Other sub-areas where I have (some) expertise are: RISC-V processor design & optimisation, critical and mixed-criticality Real-Time Embedded Systems, static analysis, concurrent programming, trusted execution environements (TEEs), bare metal code-writing & micro-controllers.</p>
+<p>Other areas of expertise are: RISC-V processor design & optimisation, critical and mixed-criticality Real-Time Embedded Systems, static analysis, concurrent programming, trusted execution environements (TEEs), bare metal code-writing & micro-controllers.</p>
 
 <p>I've also developped a few small projects on other topics, such as: AI, distributed systems, cloud, robotics, connected objects, ultra-low-power electronic design, and mobile networks.</p>
 
