@@ -93,10 +93,3 @@
 - Basic knownledge: OCaml, HTML, CSS, and SQL.
 
 <!-- </div> -->
-
-### Trivia
-
-<div style="text-align: justify"> 
-<p> I love languages. I speak Portuguese (mother tongue), English, French, Spanish, Italian, and some baisc German. I'll be beyond happy if you start a conversation with me in any of these languages (I love practicing).</p>
-<p> Other than that, I love everything aviation-related. I also enjoy sports, my favorite is basketball -- is also play it, believe it or not. Will never say no to a good conversation over a pint.</p>
-</div>
