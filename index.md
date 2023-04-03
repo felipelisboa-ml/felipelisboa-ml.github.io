@@ -60,6 +60,10 @@
 <div style="text-align: justify"> 
 
 <ol>
+<li> <strong> (To appear / Accepted) </strong> <strong>Felipe Lisboa Malaquias</strong>, Georgios Giantamidis, Stylianos Basagiannis, Simone Fulvio Rollini, Issac Amundson. 2023. Towards a Methodology to Design Provably Secure Cyber Physical Systems. Work in Progress. In Proceedings of the 27th International Conference on Reliable Software Technologies (AEiC ’23), June 13–16, 2023, Lisbon, Portugal.</li> 
+
+<li> <strong> (To appear / Accepted) </strong> <strong>Felipe Lisboa Malaquias</strong>, Mihail Asavoae, and Florian Brandner. 2023. From the Standards to Silicon: Formally Proved Memory Controllers. In Proceedings of the 15th Nasa Formal Methods International Symposium (NFM ’23), May 16–18, 2023, Houston, USA.</li> 
+
 <li> <strong> (Best Paper Award) </strong> <strong>Felipe Lisboa Malaquias</strong>, Mihail Asavoae, and Florian Brandner. 2022. A Coq Framework for More Trustworthy DRAM Controllers. In Proceedings of the 30th International Conference on Real-Time Networks and Systems (RTNS ’22), June 7–8, 2022, Paris, France. ACM, New York, NY, USA, 11 pages. 
 <a href="https://dl.acm.org/doi/10.1145/3534879.3534907?cid=99660422484"> <img alt="acm" src="assets/img/acm.png" width="30" height="30"> </a> </li> 
 </ol>
@@ -92,4 +96,4 @@
 
 - Basic knownledge: OCaml, HTML, CSS, and SQL.
 
-<!-- </div> -->
+<!-- </div> -->	
