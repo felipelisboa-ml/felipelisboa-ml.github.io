@@ -55,7 +55,7 @@
 </ul>
 </div>
 
-### Publications
+### Publications (From most to least recent)
 
 <div style="text-align: justify"> 
 
