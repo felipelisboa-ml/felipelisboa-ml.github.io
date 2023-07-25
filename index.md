@@ -8,7 +8,7 @@
 
 <p>My main research interest is on using formal methods to design hardware. My latest experience is on developping memory controllers and cryptographic modules using the Coq proof assistant. </p>
 
-<p>Other areas of expertise are: RISC-V processor design & optimisation, critical and mixed-criticality Real-Time Embedded Systems, static analysis, concurrent programming, trusted execution environements (TEEs), bare metal development & micro-controllers.</p>
+<p>Other areas of expertise are: RISC-V processor design & optimisation, critical and mixed-criticality Real-Time Embedded Systems, DRAM scheduling, static analysis, concurrent programming, trusted execution environements (TEEs), bare metal development & micro-controllers.</p>
 
 <p>I've also developped a few small projects on other topics, such as: AI, distributed systems, cloud, robotics, connected objects, ultra-low-power electronic design, and mobile networks.</p>
 
@@ -40,7 +40,7 @@
 <div style="text-align: justify"> 
 
 <ul>
-<li> <strong> Graduate Research Intern at <a href="https://www.collinsaerospace.com/">Collins Aerospace</a> (Jan 2023 - present) </strong>. I have been applying formal methods to verify customised RISC-V microarchitectures. </li>
+<li> <strong> Graduate Research Intern at <a href="https://www.collinsaerospace.com/">Collins Aerospace</a> (Jan 2023 - Jun 2023) </strong>. I have been applying formal methods to verify customised RISC-V microarchitectures -- with a strong focus on security and cryptography. </li>
 
 <li> <strong> Intern at <a href="https://www.trustonic.com/"> Trustonic </a> (Mar 2020 - Sep 2020) </strong>. I implemented a biometric library and provided sample-code for fingerprint and face-recognitionin applications in a resource-limited Trusted Execution Environment (TEE). I've also contributed to the TEE by enabling C++ support on the kernel. </li>
 </ul>
@@ -60,6 +60,9 @@
 <div style="text-align: justify"> 
 
 <ol>
+
+<li> <strong> (To appear / Accepted) </strong> <strong>Felipe Lisboa Malaquias</strong>, Mihail Asavoae, and Florian Brandner. 2023. A Formal Framework to Design and Prove Trustworthy Memory Controllers. In Real-Time Systems 59.(3). </li> 
+
 <li> <strong> (To appear / Accepted) </strong> <strong>Felipe Lisboa Malaquias</strong>, Georgios Giantamidis, Stylianos Basagiannis, Simone Fulvio Rollini, Issac Amundson. 2023. Towards a Methodology to Design Provably Secure Cyber Physical Systems. Work in Progress. In Proceedings of the 27th International Conference on Reliable Software Technologies (AEiC ’23), June 13–16, 2023, Lisbon, Portugal.</li> 
 
 <li> <strong> Malaquias, Felipe Lisboa</strong>, Mihail Asavoae, and Florian Brandner. "From the Standards to Silicon: Formally Proved Memory Controllers." NASA Formal Methods: 15th International Symposium, NFM 2023, Houston, TX, USA, May 16–18, 2023, Proceedings. Cham: Springer Nature Switzerland, 2023. 
