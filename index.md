@@ -18,7 +18,7 @@
 
 <div style="text-align: justify"> 
 
-<p>You can download my CV <a href="https://drive.google.com/file/d/16KTJP_IRu9BfBpAFQEVvA9rJ0BC8kSoq/view?usp=share_link"> here </a>. You can also visit my <a href="https://scholar.google.com/citations?user=05zNVBwAAAAJ&hl=en&oi=sra"> Google Scholar page </a> or my <a href="https://www.linkedin.com/in/felipe-lisboa/"> linkedin page. </a> </p>
+<p>You can download my CV <a href="https://drive.google.com/file/d/19AkRieZNH6san04tCnn13SDPbicrKcGa/view?usp=drive_link"> here </a>. You can also visit my <a href="https://scholar.google.com/citations?user=05zNVBwAAAAJ&hl=en&oi=sra"> Google Scholar page </a> or my <a href="https://www.linkedin.com/in/felipe-lisboa/"> linkedin page. </a> </p>
 
 </div>
 
@@ -55,7 +55,7 @@
 </ul>
 </div>
 
-### Publications (From most to least recent)
+### Publications (F		rom most to least recent)
 
 <div style="text-align: justify"> 
 
@@ -94,7 +94,7 @@
 
 <!-- <div style="text-align: justify">  -->
 
-- Proficiency: C, C++, and the Coq Theorem Prover.
+- Proficiency: C, C++, SystemVerilog, and the Coq Theorem Prover.
 
 - Working level: Python, Matlab, Haskell, and Java.
 
