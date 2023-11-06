@@ -63,7 +63,7 @@
 
 <li> <strong> (To appear / Accepted) </strong> <strong>Felipe Lisboa Malaquias</strong>, Mihail Asavoae, and Florian Brandner. 2023. A Formal Framework to Design and Prove Trustworthy Memory Controllers. In Real-Time Systems 59.(3). </li> 
 
-<li> <strong> (To appear / Accepted) </strong> <strong>Felipe Lisboa Malaquias</strong>, Georgios Giantamidis, Stylianos Basagiannis, Simone Fulvio Rollini, Issac Amundson. 2023. Towards a Methodology to Design Provably Secure Cyber Physical Systems. Work in Progress. In Proceedings of the 27th International Conference on Reliable Software Technologies (AEiC ’23), June 13–16, 2023, Lisbon, Portugal.</li> 
+<li> <strong> Lisboa Malaquias, F.</strong>, Giantamidis, G., Basagiannis, S., Fulvio Rollini, S., & Amundson, I. (2023). Towards a Methodology to Design Provably Secure Cyber-physical Systems. ACM SIGAda Ada Letters, 43(1), 94-99. </li> 
 
 <li> <strong> Malaquias, Felipe Lisboa</strong>, Mihail Asavoae, and Florian Brandner. "From the Standards to Silicon: Formally Proved Memory Controllers." NASA Formal Methods: 15th International Symposium, NFM 2023, Houston, TX, USA, May 16–18, 2023, Proceedings. Cham: Springer Nature Switzerland, 2023. 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-33170-1_18"> DOI</a>, <a href="https://perso.telecom-paristech.fr/brandner/paper/nfm23-lisboa-aam.pdf">AAM</a></li>
