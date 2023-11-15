@@ -61,8 +61,6 @@
 
 <ol>
 
-{\textbf{Lisboa Malaquias, F.}, Asavoae, M. \& Brandner, F. A formal framework to design and prove trustworthy memory controllers. Real-Time Syst (2023).}
-
 <li> <strong> Lisboa Malaquias, F. </strong>, Asavoae, M. & Brandner, F. A formal framework to design and prove trustworthy memory controllers. Real-Time Syst (2023). 
 <a href="https://link.springer.com/article/10.1007/s11241-023-09411-3#citeas"> DOI </a> </li>
 
