@@ -83,7 +83,7 @@
 
 - **CAPES BRAFITEC Excellence Double Degree Fellowship** (Belo Horizonte, Brazil, 2018). Granted by [CAPES](https://www.gov.br/capes/pt-br).
 
-- **1st place at CoRA, the Autonomous Robot Competition** (Belo Horizonte, Brazil, 2016). Organised by [PETEE](http://www.petee.cpdee.ufmg.br/), School of Enginering, UFMG. Along with two teamates, I've designed a high speed line follower robot. Our robot's performance granted us first place in the competition. You can check out the video from the championship round [here](https://www.youtube.com/shorts/w9acbkdc1_4).
+- **1st place at CoRA, the Autonomous Robot Competition** (Belo Horizonte, Brazil, 2016). Organised by [PETEE](http://www.petee.cpdee.ufmg.br/), School of Enginering, UFMG. Along with two teamates, I've designed a high speed line follower robot. Our robot's performance granted us first place in the competition. You can check out the video from the championship round [here](https://www.youtube.com/shorts/w9acbkdc1_4). The software running on it is [here](https://github.com/felipelisboa-ml/cora2016_kombibot).
 
 ### Research Projects
 
