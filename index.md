@@ -61,9 +61,12 @@
 
 <ol>
 
-<li> <strong> (To appear / Accepted) </strong> <strong>Felipe Lisboa Malaquias</strong>, Mihail Asavoae, and Florian Brandner. 2023. A Formal Framework to Design and Prove Trustworthy Memory Controllers. In Real-Time Systems 59.(3). </li> 
+{\textbf{Lisboa Malaquias, F.}, Asavoae, M. \& Brandner, F. A formal framework to design and prove trustworthy memory controllers. Real-Time Syst (2023).}
 
-<li> <strong> Lisboa Malaquias, F.</strong>, Giantamidis, G., Basagiannis, S., Fulvio Rollini, S., & Amundson, I. (2023). Towards a Methodology to Design Provably Secure Cyber-physical Systems. ACM SIGAda Ada Letters, 43(1), 94-99. </li> 
+<li> <strong> Lisboa Malaquias, F. </strong>, Asavoae, M. & Brandner, F. A formal framework to design and prove trustworthy memory controllers. Real-Time Syst (2023). 
+<a href="https://link.springer.com/article/10.1007/s11241-023-09411-3#citeas"> DOI </a> </li>
+
+<li> <strong> Lisboa Malaquias, F.</strong>, Giantamidis, G., Basagiannis, S., Fulvio Rollini, S., & Amundson, I. (2023). Towards a Methodology to Design Provably Secure Cyber-physical Systems. ACM SIGAda Ada Letters, 43(1), 94-99. <a href="https://dl.acm.org/doi/10.1145/3631483.3631499"> DOI </a> </li> 
 
 <li> <strong> Malaquias, Felipe Lisboa</strong>, Mihail Asavoae, and Florian Brandner. "From the Standards to Silicon: Formally Proved Memory Controllers." NASA Formal Methods: 15th International Symposium, NFM 2023, Houston, TX, USA, May 16–18, 2023, Proceedings. Cham: Springer Nature Switzerland, 2023. 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-33170-1_18"> DOI</a>, <a href="https://perso.telecom-paristech.fr/brandner/paper/nfm23-lisboa-aam.pdf">AAM</a></li>
@@ -94,10 +97,9 @@
 
 <!-- <div style="text-align: justify">  -->
 
-- Proficiency: C, C++, SystemVerilog, and the Coq Theorem Prover.
+- Proficiency: C, and the Coq Theorem Prover.
 
-- Working level: Python, Matlab, Haskell, and Java.
+- Working level: SystemVerilog, Python, C++, Java.
 
-- Basic knownledge: OCaml, HTML, CSS, and SQL.
-
+- Basic knownledge: Matlab, HTML, CSS, SQL, Haskell, OCaml, F*, UPPALL, TLA+.
 <!-- </div> -->	
