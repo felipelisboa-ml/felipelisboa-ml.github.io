@@ -27,7 +27,7 @@
 <div style="text-align: justify"> 
 
 <ul>
-<li> <strong>PhD at Institut Polytechnique de Paris</strong>, Paris, France (2020-present). Thesis: Secure Dynamic Memory Hierarchy.</li>
+<li> <strong>PhD at Institut Polytechnique de Paris</strong>, Paris, France (2020-2024). Thesis: Secure Dynamic Memory Hierarchy.</li>
 <li> <strong>MsC at Télécom Paris & Université Paris-Saclay</strong>, Paris, France  (2018-2020). Thesis: Implementation of a biometric library in a multi-core Trusted Execution Environment (TEE). GPA: 16.2/20.</li>
 <li> <strong>BsC in Electrical Engineering at Universidade Federal de Minas Gerais (UFMG)</strong>, Belo Horizonte, Brazil (2015-2020). Focus on electronics and computer micro-architecture.</li>
 <li> <strong>Technical Degree in Industrial Automation</strong> at Instituto Federal de Minas Gerais (IFMG), Ouro Preto, Brazil (2012-2014).</li>
@@ -40,7 +40,9 @@
 <div style="text-align: justify"> 
 
 <ul>
-<li> <strong> Graduate Research Intern at <a href="https://www.collinsaerospace.com/">Collins Aerospace</a> (Jan 2023 - Jun 2023) </strong>. I have been applying formal methods to verify customised RISC-V microarchitectures -- with a strong focus on security and cryptography. </li>
+<li> <strong> Senior Verification Engineer at <a href="https://www.arteris.com/">Arteris IP</a> (Jul 2024 - present)</strong>. </li>
+
+<li> <strong> Graduate Research Intern at <a href="https://www.collinsaerospace.com/">Collins Aerospace</a> (Jan 2023 - Jun 2023) </strong>. I have been applying formal methods to verify the correctness of customised RISC-V microarchitectures -- with a strong focus on security and crypto-accelerators. </li>
 
 <li> <strong> Intern at <a href="https://www.trustonic.com/"> Trustonic </a> (Mar 2020 - Sep 2020) </strong>. I implemented a biometric library and provided sample-code for fingerprint and face-recognitionin applications in a resource-limited Trusted Execution Environment (TEE). I've also contributed to the TEE by enabling C++ support on the kernel. </li>
 </ul>
@@ -60,6 +62,9 @@
 <div style="text-align: justify"> 
 
 <ol>
+
+<li> <strong> (Accepted) Lisboa Malaquias, F. </strong>, Asavoae, M. & Brandner, F. Leveraging Reusable Code and Proofs to Design
+Complex DRAM Controllers – A Case Study. 27th Euromicro Conference Series on Digital System Design (DSD), 2024. </li>
 
 <li> <strong> Lisboa Malaquias, F. </strong>, Asavoae, M. & Brandner, F. A formal framework to design and prove trustworthy memory controllers. Real-Time Syst (2023). 
 <a href="https://link.springer.com/article/10.1007/s11241-023-09411-3#citeas"> DOI </a> </li>
@@ -85,7 +90,7 @@
 
 - **1st place at CoRA, the Autonomous Robot Competition** (Belo Horizonte, Brazil, 2016). Organised by [PETEE](http://www.petee.cpdee.ufmg.br/), School of Enginering, UFMG. Along with two teamates, I've designed a high speed line follower robot. Our robot's performance granted us first place in the competition. You can check out the video from the championship round [here](https://www.youtube.com/shorts/w9acbkdc1_4). The software running on it is [here](https://github.com/felipelisboa-ml/cora2016_kombibot).
 
-### Research Projects
+### Other Research Projects
 
 - [Superscalar Processor Timing Anomalies Detector](https://github.com/felipelisboa-ml/RISC-V-competition). A software written in C to detect timing anomalies in super-scalar processor trace executions.
 
@@ -101,3 +106,7 @@
 
 - Basic knownledge: Matlab, HTML, CSS, SQL, Haskell, OCaml, F*, UPPALL, TLA+.
 <!-- </div> -->	
+
+### Trivia
+
+- I speak six languages: Portuguese, English, French, Spanish, Italian, and German.
