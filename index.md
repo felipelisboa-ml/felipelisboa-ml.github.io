@@ -3,22 +3,19 @@
 
 <div style="text-align: justify"> 
 
-<p>Welcome to my personal page. Currently I am working on my PhD thesis at  <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a> under the supervision of 
+<p>Welcome to my personal page. Currently I am working as a senior verification engineer at Arteris IP. At Arteris, I develop innovative verification methodologies for highly parametric Network-on-Chips (NoCs).</p>
+
+<p>Previously, I have completed my PhD thesis at <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a> under the supervision of 
 <a href="https://perso.telecom-paristech.fr/brandner/">Florian Brandner</a> and <a href="https://www.telecom-paris.fr/lirida-naviner?l=en">Lirida Naviner</a>.</p>
 
-<p>My main research interest is on using formal methods to design hardware. My latest experience is on developping memory controllers and cryptographic modules using the Coq proof assistant. </p>
-
-<p>Other areas of expertise are: RISC-V processor design & optimisation, critical and mixed-criticality Real-Time Embedded Systems, DRAM scheduling, static analysis, concurrent programming, trusted execution environements (TEEs), bare metal development & micro-controllers.</p>
-
-<p>I've also developped a few small projects on other topics, such as: AI, distributed systems, cloud, robotics, connected objects, ultra-low-power electronic design, and mobile networks.</p>
-
+<p>Overall, although I am quite enthusiastic about learning and staying in touch with many different areas, my main research interest (and expertise) is on using formal methods to design correct-by-construction hardware.</p> 
 </div>
 
 ### Alternative resources
 
 <div style="text-align: justify"> 
 
-<p>You can download my CV <a href="https://drive.google.com/file/d/1fKYhnXdA8HcoLMIbU-b36vtL8Se6CkI4/view?usp=drive_link"> here</a>. You can also visit my <a href="https://scholar.google.com/citations?user=05zNVBwAAAAJ&hl=en&oi=sra"> Google Scholar page </a> or my <a href="https://www.linkedin.com/in/felipe-lisboa/"> Linkedin page. </a> </p>
+<p>You can download my CV <a href="https://drive.google.com/file/d/1NQESaHiqf7FFKIsPDgnhKFpxE1qIpS_l/view?usp=sharing"> here</a>. You can also visit my <a href="https://scholar.google.com/citations?user=05zNVBwAAAAJ&hl=en&oi=sra"> Google Scholar page </a> or my <a href="https://www.linkedin.com/in/felipe-lisboa/"> Linkedin page. </a> </p>
 
 </div>
 
@@ -102,11 +99,14 @@ Complex DRAM Controllers – A Case Study. 27th Euromicro Conference Series on D
 
 - Proficiency: C, and the Coq Theorem Prover.
 
-- Working level: SystemVerilog, Python, C++, Java.
+- Working level: SystemVerilog/Verilog, C++, Python, Java.
 
-- Basic knownledge: Matlab, HTML, CSS, SQL, Haskell, OCaml, F*, UPPALL, TLA+.
+- Basic knownledge: 
+	- Functional programming languages: Haskell, OCaml, Scala.
+	- Formal verification languages/tools: F*, UPPALL, TLA+. 
+	- Other: Matlab, HTML, CSS, SQL.
 <!-- </div> -->	
 
 ### Trivia
 
-- I speak six languages: Portuguese, English, French, Spanish, Italian, and German.
+I am passionate about languages. I can currently speak six languages: Portuguese, English, French, Spanish, Italian, and German.
