@@ -3,12 +3,12 @@
 
 <div style="text-align: justify"> 
 
-<p>Welcome to my personal page. Currently, I am working as a senior verification engineer at Arteris IP. At Arteris, I develop innovative verification methodologies for highly parametric Network-on-Chips (NoCs).</p>
+<p>Welcome to my personal page. Currently, I am working as a senior verification engineer at Arteris IP. I develop innovative verification methodologies for highly parametric Network-on-Chips (NoCs).</p>
 
 <p>Previously, I have completed my PhD thesis at <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a> under the supervision of 
-<a href="https://perso.telecom-paristech.fr/brandner/">Florian Brandner</a> and <a href="https://www.telecom-paris.fr/lirida-naviner?l=en">Lirida Naviner</a>.</p>
+<a href="https://perso.telecom-paristech.fr/brandner/">Florian Brandner</a>, Mihail Asavoae, and <a href="https://www.telecom-paris.fr/lirida-naviner?l=en">Lirida Naviner</a>.</p>
 
-<p>Overall, although I am quite enthusiastic about learning and staying in touch with many different areas, my main research interest (and expertise) is on using formal methods to design correct-by-construction hardware.</p> 
+<p>I am quite enthusiastic about learning and staying in touch with many different areas. Nevertheless, my main research interest (and expertise) is on using formal methods to design correct-by-construction hardware.</p>
 </div>
 
 ### Alternative resources
