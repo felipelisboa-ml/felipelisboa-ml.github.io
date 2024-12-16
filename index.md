@@ -37,7 +37,7 @@
 <div style="text-align: justify"> 
 
 <ul>
-<li> <strong> Senior Verification Engineer at <a href="https://www.arteris.com/">Arteris IP</a> (Jul 2024 - present)</strong>. </li>
+<li> <strong> Senior Verification Engineer at <a href="https://www.arteris.com/">Arteris IP</a> (Jul 2024 - present)</strong>. I develop innovative solutions for carrying functional verification of (Network-on-Chip) NoC(s). </li>
 
 <li> <strong> Graduate Research Intern at <a href="https://www.collinsaerospace.com/">Collins Aerospace</a> (Jan 2023 - Jun 2023) </strong>. I have been applying formal methods to verify the correctness of customised RISC-V microarchitectures -- with a strong focus on security and crypto-accelerators. </li>
 
@@ -97,14 +97,11 @@ Complex DRAM Controllers – A Case Study. 27th Euromicro Conference Series on D
 
 <!-- <div style="text-align: justify">  -->
 
-- Proficiency: C, and the Coq Theorem Prover.
+- Proficiency: C, C++, and the Coq Theorem Prover.
 
-- Working level: SystemVerilog/Verilog, C++, Python, Java.
+- Working level: SystemVerilog/Verilog, Python.
 
-- Basic knownledge: 
-	- Functional programming languages: Haskell, OCaml, Scala.
-	- Formal verification languages/tools: F*, UPPALL, TLA+. 
-	- Other: Matlab, HTML, CSS, SQL.
+- Basic knownledge: Haskell, OCaml, Scala, Java, F*, UPPALL, TLA+, Matlab, HTML, CSS, SQL.
 <!-- </div> -->	
 
 ### Trivia
